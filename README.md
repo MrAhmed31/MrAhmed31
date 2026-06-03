@@ -4,6 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=900&lines=Building+Full-Stack+Applications;Exploring+Machine+Learning;Learning+System+Programming;Creating+Real-World+Solutions" />
 
+<a href="https://github.com/MrAhmed31">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=MrAhmed31&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 </div>
 
 ---
