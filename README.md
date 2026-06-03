@@ -8,29 +8,29 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-```javascript
-const ahmed = {
-    degree: "BS Computer Science",
-    interests: [
-        "Full-Stack Development",
-        "Machine Learning",
-        "System Programming",
-        "Database Systems"
-    ],
-    currentFocus: [
-        "MERN Stack",
-        "Data Structures & Algorithms",
-        "Assembly Language"
-    ]
-};
-```
+I'm Muhammad Ahmed, a passionate BS Computer Science Student focused on building software that solves real-world problems.
 
----
+My interests include:
 
-🚀 Featured Projects
-🌐 SocioSphere
+🌐 Full-Stack Web Development
+📰 Machine Learning & AI
+💻 System Programming
+🗄 Database Systems
+🎮 Game Development
+📚 Data Structures & Algorithms
+⚡ Problem Solving
+🚀 Building Practical Applications
+
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌐 SocioSphere
 
 A full-stack social networking platform featuring:
 
@@ -40,9 +40,11 @@ Post creation & interactions
 Community engagement
 Modern responsive UI
 
-Tech: Node.js, Express.js, MongoDB, JavaScript, Bootstrap
+**Tech:** Node.js, Express.js, MongoDB, JavaScript, Bootstrap
+</td>
+<td width="50%">
 
-📰 Fake News Detection System
+## 📰 Fake News Detection System
 
 Machine learning application that predicts whether news content is real or fake.
 
@@ -52,20 +54,29 @@ Feature extraction
 Prediction engine
 Classification models
 
-Tech: Python, Pandas, NumPy, Scikit-learn
+**Tech:** Python, Pandas, NumPy, Scikit-learn
+</td>
+</tr>
 
-🏥 MEDIVAULT
+<tr>
+<td width="50%">
 
-Pharmacy inventory and management platform.
+## 🏥 MEDIVAULT
 
-Medicine inventory tracking
-Stock management
-Expiry monitoring
-Sales management
+Secure digital healthcare record management system.
 
-Tech: Node.js, Express.js, MongoDB
+🔐 OTP-Based Secure Authentication
+📋 Medical Records Management
+👨‍⚕️ Doctor & Guest Doctor Access
+📅 Appointment Booking System
+🛡️ Admin Dashboard & Access Monitoring
 
-💊 Pharmacy Management System
+**Tech:** React.js,Tailwind CSS,ASP.NET Core Web API,PostgreSQL,Entity Framework Core
+
+</td>
+<td width="50%">
+
+## 💊 Pharmacy Management System
 
 Complete pharmacy ERP solution.
 
@@ -74,68 +85,139 @@ Billing system
 Purchase tracking
 Customer management
 
-Tech: JavaScript, Express.js, MongoDB
-## 💻 Tech Stack
+**Tech:** JavaScript, Express.js, MongoDB
+
+</td>
+</tr>
+</table>>
+
+# 🛠 Tech Stack
 
 ### Languages
-C++, Python, JavaScript, HTML, CSS, Assembly (MASM)
 
-### Web Development
-Node.js, Express.js, MongoDB, Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,html,css" />
+</p>
 
-### Machine Learning
-Scikit-learn, Pandas, NumPy
+### Frontend
 
-### Tools
-Git, GitHub, VS Code, Postman
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,dotnet" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📈 GitHub Analytics
+
+<div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MrAhmed31&show_icons=true&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrAhmed31&theme=tokyonight)
 
+</div>
+
 ---
 
-## 🎯 Current Focus
+---
 
-```yaml
-current_focus:
-  - Full-Stack Development
-  - Machine Learning
-  - Data Structures & Algorithms
-  - System Programming
+# 🧠 Current Learning Roadmap
+
+```mermaid
+mindmap
+  root((Muhammad Ahmed))
+    BS Computer Science
+      Programming Fundamentals
+      OOP
+      DSA
+      Database Systems
+      Computer Networks
+      Operating Systems
+      Software Engineering
+
+    Full Stack Development
+      HTML
+      CSS
+      JavaScript
+      Node.js
+      Express.js
+      MongoDB
+      REST APIs
+
+    Machine Learning
+      Python
+      Pandas
+      NumPy
+      Scikit-learn
+      Fake News Detection
+
+    Systems Programming
+      C++
+      SFML
+      MASM
+      x86 Assembly
+      Computer Organization
+
+    Projects
+      SocioSphere
+      Pharmacy Management System
+      Dino Runner
+      SFML Shooter Game
+      Fake News Detection
+
+    Future Goals
+      MERN Stack
+      Advanced DSA
+      System Design
+      Cloud Computing
+      Open Source Contributions
 ```
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mafzalkalwardev/mafzalkalwardev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+# 🔍 Professional Keywords
+
+`Full-Stack Developer`
+`Automation Engineer`
+`Python Developer`
+`Node.js Developer`
+`Playwright Automation`
+`Web Scraping`
+`MongoDB`
+`AI Systems`
+`CRM Development`
+`Business Automation`
+`Logistics Software`
+`SaaS Development`
+`Data Extraction`
+`.NET`
+`C++`
+`DSA`
+`MASM x8086`
+
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
 
-Replace with your snake animation URL after setup.
+## ⚡ Building systems that automate workflows and solve real-world business problems.
 
----
+</div>
 
-## 💡 Terminal
+<div align="center">
 
-```bash
-$ whoami
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 
-Muhammad Ahmed
-
-$ degree
-
-BS Computer Science
-
-$ projects
-
-SocioSphere
-Fake News Detection System
-MEDIVAULT
-Pharmacy Management System
-
-$ goal
-
-Build software that solves real-world problems
-```
+</div>
