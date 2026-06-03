@@ -29,32 +29,52 @@ const ahmed = {
 
 ---
 
-## 🌟 Featured Projects
+🚀 Featured Projects
+🌐 SocioSphere
 
-### 🌐 SocioSphere
-A full-stack social networking platform featuring authentication, profiles, posts, interactions, and community engagement.
+A full-stack social networking platform featuring:
 
-**Tech:** Node.js, Express.js, MongoDB, JavaScript, Bootstrap
+User authentication
+User profiles
+Post creation & interactions
+Community engagement
+Modern responsive UI
 
-### 📰 Fake News Detection System
-Machine learning project that predicts whether news content is real or fake using NLP and classification techniques.
+Tech: Node.js, Express.js, MongoDB, JavaScript, Bootstrap
 
-**Tech:** Python, Scikit-learn, Pandas, NumPy
+📰 Fake News Detection System
 
-### 🏥 MEDIVAULT
-Pharmacy inventory and stock management platform.
+Machine learning application that predicts whether news content is real or fake.
 
-### 💊 Pharmacy Management System
-Inventory control, medicine management, and billing solution.
+NLP preprocessing
+Dataset training
+Feature extraction
+Prediction engine
+Classification models
 
-### 🎮 SFML Shooter Game
-C++ game featuring OOP, enemy AI, collision detection, and sound integration.
+Tech: Python, Pandas, NumPy, Scikit-learn
 
-### 🦖 Dino Runner (MASM)
-Assembly Language game demonstrating low-level programming and game mechanics.
+🏥 MEDIVAULT
 
----
+Pharmacy inventory and management platform.
 
+Medicine inventory tracking
+Stock management
+Expiry monitoring
+Sales management
+
+Tech: Node.js, Express.js, MongoDB
+
+💊 Pharmacy Management System
+
+Complete pharmacy ERP solution.
+
+Inventory management
+Billing system
+Purchase tracking
+Customer management
+
+Tech: JavaScript, Express.js, MongoDB
 ## 💻 Tech Stack
 
 ### Languages
