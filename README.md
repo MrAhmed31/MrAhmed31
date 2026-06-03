@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Muhammad%20Ahmed&fontAlignY=40&desc=BS%20Computer%20Science%20Student%20|%20Full-Stack%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
